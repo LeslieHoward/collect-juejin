@@ -1,0 +1,14 @@
+{
+  "name": "collect-juejin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "leslie",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "puppeteer": "^13.7.0"
+  },
+  "scripts": {
+    "start": "node ./index.js"
+  }
+}
